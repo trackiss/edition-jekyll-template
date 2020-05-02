@@ -86,6 +86,8 @@ layout: null
 		this.field("category");
 		this.field("url");
 		this.field("content");
+
+		this.use(lunr.ja);
 	});
 
 	var query = decodeURIComponent((getQueryVariable("q") || "").replace(/\+/g, "%20")),

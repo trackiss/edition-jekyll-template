@@ -1,3 +1,8 @@
+[Lunr Languages](https://github.com/MihaiValentin/lunr-languages) を使って、日本語を使用した検索に対応させてあります。  
+したがって、当リポジトリおよびその派生物は、Lunr Languages のライセンス (Mozilla Public License) に基づき公開される必要があります。
+
+---
+
 # Edition
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
