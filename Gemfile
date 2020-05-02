@@ -10,3 +10,5 @@ end
 
 gem 'tzinfo', '2.0.2'
 gem 'tzinfo-data', '1.2020.1'
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
